@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Gulia</h1>
 
-<h3 align="left">Creative and innovative full-stack MERN developer. Problem-solving and motivated temperament. Takes challenges and provides his best to complete that challenge. Practised in HTML, CSS and Javascript. Looking forward to beginning a career as an associate entry-level computer user.</h3>
+<h3 align="left">Creative and innovative full-stack MERN developer. Problem-solving and motivated temperament. Takes challenges and provides his best to complete that challenge. Practiced in HTML, CSS and Javascript. Looking forward to beginning a career as an associate entry-level computer user.</h3>
 
 <hr>
 
