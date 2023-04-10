@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/DeepanshuGulia" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="DeepanshuGulia" height="60" width="70" /></a>
-<a href="https://linkedin.com/in//deepanshu-gulia/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" alt="Deepanshu Gulia" height="60" width="70" /></a>
+<a href="https://linkedin.com/in/deepanshu-gulia/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" alt="Deepanshu Gulia" height="60" width="70" /></a>
 <a href="https://medium.com/@deepanshugulia04" target="blank"><img align="center" src="https://www.svgrepo.com/show/396899/letter-m.svg" alt="@deepanshugulia04" height="60" width="70" /></a>
 </p>
 
