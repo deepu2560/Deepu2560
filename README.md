@@ -1,41 +1,138 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Gulia</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="left">Creative and innovative full-stack MERN developer. Problem-solving and motivated temperament. Takes challenges and provides his best to complete that challenge. Practiced in HTML, CSS and Javascript. Looking forward to beginning a career as an associate entry-level computer user.</h3>
+###
 
-<hr>
+<p align="left">My name is <strong>Deepanshu Gulia</strong> and I'm a <strong>full-stack developer</strong>, from <strong>Delhi, India</strong></p>
+<p align="left">With a creative and innovative mindset, I am a MERN developer who thrives on solving complex problems. My motivation and dedication drive me to provide my best work and take on new challenges.</p>
 
-<h3 align="center">A passionate full-stack developer from India</h3>
+###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=deepu2560" alt="deepu2560" /></a> </p>
+## 🙎 About me
 
-<hr>
+<p align="left">✨ Creating bugs since <strong>2021</strong> <br>📚 I'm currently mastering <strong>data structure and algorithm</strong> <br>🎯 Goals: <strong>become an amazing software engineer</strong> <br>🎲 Fun fact: <strong>I love gaming and anime</strong> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/DeepanshuGulia" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="DeepanshuGulia" height="60" width="70" /></a>
-<a href="https://linkedin.com/in/deepanshu-gulia/" target="blank"><img align="center" src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" alt="Deepanshu Gulia" height="60" width="70" /></a>
-<a href="https://medium.com/@deepanshugulia04" target="blank"><img align="center" src="https://www.svgrepo.com/show/396899/letter-m.svg" alt="@deepanshugulia04" height="60" width="70" /></a>
-</p>
+###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deepu2560&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<hr>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center" >
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373535/css.svg" alt="css3" width="80" height="80"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkFFp6F68FtG37ywzHWskX-nRhhthvaV7smx5lAm3aXaGnQtxptLUk5gvsJQZt4wRwsA&usqp=CAU" alt="express" width="150" height="80" /> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/> </a>   
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="80" height="80"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452045/js.svg" alt="javascript" width="80" height="80"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354090/mongodb.svg" alt="mongodb" width="80" height="80"/> </a>  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374032/reactjs.svg" alt="react" width="80" height="80"/> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354552/webpack.svg" alt="webpack" width="80" height="80"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="nodejs" width="80" height="80"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452091/python.svg" alt="webpack" width="80" height="80"/> </a>
-</p>
+## 🧑‍💻 I code with:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" title="JQuery" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML & HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS & CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo" title="Sass" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="40" alt="less logo" title="Less" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" title="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="Reactjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" title="Redux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo" title="Electronjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" title="Vuejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo" title="Threejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" title="Nodejs" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Expressjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo" title="Discordjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" title="GraphQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" title="Flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo" title="Webpack" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" title="Nginx" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo" title="Heroku" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" title="Google Cloud" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo" title="AWS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
+</div>
 
-<p align = "center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepu2560&show_icons=true&locale=en&layout=compact" alt="deepu2560" /></p>
-<br>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepu2560&show_icons=true&locale=en" alt="deepu2560" /></p>
-<br>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepu2560&" alt="deepu2560" /></p>
+###
+
+## 📰 GitHub Stats:
+
+<div align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepu2560&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepu2560&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepu2560&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+## 🌐 Socials:
+<div align="center">
+  <a href="https://www.linkedin.com/in/deepanshu-gulia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/DeepanshuGulia" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="60" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/deep.coding/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="60" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+###
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+## 😂 Random Dev Meme
+<div align="center">
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
+</div>
+
+###
+
+# Thank you for visiting my profile ❤️
+### If you can see a follow button click it for a magic 😜
