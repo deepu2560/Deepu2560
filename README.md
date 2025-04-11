@@ -64,8 +64,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo" title="Microsoft SQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" />
@@ -97,10 +95,7 @@
   <a href="https://www.linkedin.com/in/deepanshu-gulia/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="60" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/DeepanshuGulia" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="80" height="60" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/deep.coding/" target="_blank">
+  <a href="https://www.instagram.com/deepanshugulia.in/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="60" alt="instagram logo"  />
   </a>
 </div>
@@ -111,13 +106,6 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
-
-## 😂 Random Dev Meme
-<div align="center">
-  <img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
-</div>
 
 ###
 
